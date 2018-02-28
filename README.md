@@ -1,2 +1,2 @@
 
-# My officail portfolio in Angular 2
+# My offcial portfolio in Angular 2
